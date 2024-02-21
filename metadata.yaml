@@ -5,6 +5,9 @@ contributor:
     agent_name: Frohn, John C.
     gutenberg_agent_id: '56823'
     url: http://www.gutenberg.org/2009/agents/56823
+covers:
+- cover_type: archival
+  image_path: 72827-h/images/cover.jpg
 creator:
   author:
     agent_name: Field, Eugene
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/238
     wikipedia: https://en.wikipedia.org/wiki/Eugene_Field
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72827#Nonsense-for-old-and-young
 gutenberg_issued: '2024-01-30'
 gutenberg_type: Text
 identifiers:
